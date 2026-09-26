@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-tmdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "TMDB v3 MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1313100110de2771752f062ec569d8b81e20f512af1de678536f31dc1607d3e8",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-669d135834cbfa3052c8c4ecf975bffd8e0b2eee885bd3319295387d9612befe",
+    "sourceCommit": "66a0692f029179984440cef6938cba7fdd41d66d"
   }
 }
