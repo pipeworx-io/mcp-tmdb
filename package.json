@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-tmdb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "TMDB v3 MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "tmdb",
     "gatewaySlug": "tmdb",
-    "sourceHash": "v1-6f0fa470fd7ea0fdd7186eff594e207bc6745918ec05ce19d43d1da5f21c6621",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-7db09e75ecd9f8a4900314207860e075781fc2372190b66f9690324cadc2b383",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
